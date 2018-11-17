@@ -1,0 +1,191 @@
+{
+   "+ccWXqaoHJ9hfuXbleKV6FQUrBlyXAJ31BdqjNQJpHs=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1573973235.297972,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": false,
+      "sts_observed": 1542437235.297975
+   },
+   "/Io2PStL7/jvcod3tT0jPo73HDnRILY4Di46SHjGwTk=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1573760079.989855,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": false,
+      "sts_observed": 1542224079.989857
+   },
+   "0J7rAWV0ouCFYJ9XrkDiKnAO1SshXJmLJE1SS3V8kDM=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1573973219.139135,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": false,
+      "sts_observed": 1542437219.139138
+   },
+   "26YaoM4gVrY0ie3hywpFBUJh47nIlvTljf0QEZuoLCM=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1553151190.160051,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": true,
+      "sts_observed": 1542264790.160054
+   },
+   "5EdUoB7YUY9zZV+2DkgVXgho8WUvp+D+6KpeUOhNQIM=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1573973329.684728,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": false,
+      "sts_observed": 1542437329.684731
+   },
+   "7I+AXP75S5DVItgGv9skSDRtI+4k2o7edYEeA0xGC5Q=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1573973458.561053,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": false,
+      "sts_observed": 1542437458.561056
+   },
+   "8/RrMmQlCD2Gsp14wUCE1P8r7B2C5+yE0+g79IPyRsc=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1573973214.499759,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": true,
+      "sts_observed": 1542437214.499762
+   },
+   "AfB078tA6p3Fb9zydzp1xJzQh2jit6xBP/6UE0bvqdw=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1553189497.568117,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": true,
+      "sts_observed": 1542303097.568122
+   },
+   "HehO5R5fn45ne2nUOje5yvPR79z7w0fFZ0b8GrPBRvE=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1573973497.15788,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": false,
+      "sts_observed": 1542437497.157882
+   },
+   "Ifty0kmGtBkqpzyRNEJ2iccvLpOffAEtEf72UjNCr0U=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expect_ct": {
+         "expect_ct_enforce": false,
+         "expect_ct_expiry": 1545029238.163733,
+         "expect_ct_observed": 1542437238.163733,
+         "expect_ct_report_uri": "https://api.github.com/_private/browser/errors"
+      },
+      "expiry": 1573973458.633847,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": true,
+      "sts_observed": 1542437458.633852
+   },
+   "WR5m+FfsNpP5QImU+8rUGcBG8u7eW4MjdsuyTtqSN3w=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expect_ct": {
+         "expect_ct_enforce": false,
+         "expect_ct_expiry": 1545029246.634419,
+         "expect_ct_observed": 1542437246.634419,
+         "expect_ct_report_uri": "https://api.github.com/_private/browser/errors"
+      },
+      "expiry": 1573973246.634404,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": true,
+      "sts_observed": 1542437246.634407
+   },
+   "a3B8SKjLD5tirvmv/z7o9v4o14J4mMF9RqvzuL7/H4M=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1573973493.472349,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": false,
+      "sts_observed": 1542437493.472352
+   },
+   "bVzOnu6xyelN8iVLDSbFjyZVgXrXDyLSokjnq2hdUFs=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expect_ct": {
+         "expect_ct_enforce": false,
+         "expect_ct_expiry": 1545029493.211209,
+         "expect_ct_observed": 1542437493.211209,
+         "expect_ct_report_uri": "https://api.github.com/_private/browser/errors"
+      },
+      "expiry": 1573973493.211191,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": true,
+      "sts_observed": 1542437493.211197
+   },
+   "kTBZlNzaAygsyUNLLJvF9CS33eqAcPjUb75PGjCOtnM=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1573973458.355586,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": false,
+      "sts_observed": 1542437458.355588
+   },
+   "kkB5ib/+M7npcrRR7ZcVsOzujXBba6S9s0C/7USAGao=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1573973445.423377,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": false,
+      "sts_observed": 1542437445.423379
+   },
+   "m4trt0P1zMUAGiU7gZ2iMhLIZ9jXXpTJT797it1Wuig=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1573973233.187936,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": false,
+      "sts_observed": 1542437233.187939
+   },
+   "mPA/INyvbBufIejotw/nxkqXMSZ6f1+GY8zDuTq0MfE=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1558336827.160477,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": false,
+      "sts_observed": 1542266427.16048
+   },
+   "mX1OubIhLTrpNLuXDx72moPCuaOflOEsPzmPkANen3o=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1573841318.143943,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": true,
+      "sts_observed": 1542305318.143947
+   },
+   "nAuqgR4iEWti7SOdT3UHPl6rmZU/DeaIm38P2O2OkgA=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1542869608.369324,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": false,
+      "sts_observed": 1542264808.369326
+   }
+}

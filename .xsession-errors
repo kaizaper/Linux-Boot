@@ -1,0 +1,238 @@
+/home/kai/.config/openbox/environment: regel 8: export: '': is geen geldige naam
+parse_config(): "clear-shadow" is removed as an option, and is always enabled now. Consider removing it from your config file
+parse_config(): "paint-on-overlay" has been removed as an option, and is enabled whenever possible
+ERROR: Could not load file in bg set: Failed to open file “/usr/share/backgrounds/lunix/cool-logo/manjaro-cool-perspective.jpg”: Bestand of map bestaat niet
+tint2: xRandr: Found crtc's: 1
+[1;34mtint2: xRandr: Linking output VGA-1 with crtc 0, resolution 1024x768, DPI 96[0m
+tint2: No XSETTINGS manager, tint2 uses config option 'launcher_icon_theme'.
+tint2: Loading config file: /home/kai/.config/tint2/default.tint2rc
+tint2: real transparency on... depth: 32
+tint2: xRandr: Found crtc's: 1
+[1;34mtint2: xRandr: Linking output VGA-1 with crtc 0, resolution 1024x768, DPI 96[0m
+tint2: No XSETTINGS manager, tint2 uses config option 'launcher_icon_theme'.
+tint2: Loading config file: /home/kai/.config/tint2/tint2rc
+tint2: real transparency on... depth: 32
+tint2: panel items: PLTC
+tint2: nb monitors 1, nb monitors used 1, nb desktops 4
+[1;34mtint2: panel 1 uses scale 1 [0m
+[1;32mtint2: Loading icon theme cache...[0m
+[1;33mIcon path not found in cache: theme = hicolor, icon = /usr/share/icons/manjaro/maia/32x32.png, size = 0[0m
+[1;32mtint2: Loading icon theme hicolor:[0m
+tint2: panel items: TS
+tint2: Systray composited rendering on
+tint2: nb monitors 1, nb monitors used 1, nb desktops 4
+[1;34mtint2: panel 1 uses scale 1 [0m
+tint2:  'hicolor',tint2: 
+tint2: Kernel uevent interface initialized...
+tint2: systray window 8388625
+[1;32mtint2: systray started[0m
+[1;33mtint2: Icon not found in default theme: /usr/share/icons/manjaro/maia/32x32.png[0m
+[1;31mtint2: Loading additional icon themes (this means your icon theme is incomplete)...[0m
+tint2:  'default',tint2:  'xcursor-breeze',tint2: 
+tint2:  'Papirus-Dark-Maia',tint2:  'Papirus-Dark',tint2:  'breeze-dark',tint2:  'Papirus',tint2:  'breeze',tint2:  'gnome',tint2: 
+tint2:  'Papirus-Light-Maia',tint2:  'Papirus-Light',tint2: 
+tint2:  'Papirus-Adapta-Maia',tint2: 
+tint2:  'Papirus-Adapta-Nokto',tint2: 
+tint2:  'ePapirus',tint2:  'elementary',tint2: 
+tint2:  'Papirus-Adapta-Nokto-Maia',tint2: 
+tint2:  'HighContrast',tint2:  'Adwaita',tint2: 
+tint2:  'xcursor-breeze-snow',tint2: 
+tint2:  'Papirus-Adapta',tint2: 
+tint2:  'Papirus-Maia',tint2: 
+[1;31mtint2: Could not find icon '/usr/share/icons/manjaro/maia/32x32.png', using default.[0m
+***** Imlib2 Developer Warning ***** :
+	This program is calling the Imlib call:
+
+	imlib_image_set_has_alpha();
+
+	With the parameter:
+
+	image
+
+	being NULL. Please fix your program.
+***** Imlib2 Developer Warning ***** :
+	This program is calling the Imlib call:
+
+	imlib_image_get_data();
+
+	With the parameter:
+
+	image
+
+	being NULL. Please fix your program.
+***** Imlib2 Developer Warning ***** :
+	This program is calling the Imlib call:
+
+	imlib_image_put_back_data();
+
+	With the parameter:
+
+	image
+
+	being NULL. Please fix your program.
+tint2: Could not open file /usr/share/applications/geany.desktop
+tint2: Could not open file /usr/share/applications/l3afpad.desktop
+tint2: Kernel uevent interface initialized...
+[1;33mIcon path not found in cache: theme = hicolor, icon = /usr/share/icons/manjaro/maia/32x32.png, size = 22[0m
+[1;33mtint2: Icon not found in default theme: /usr/share/icons/manjaro/maia/32x32.png[0m
+[1;31mtint2: Could not find icon '/usr/share/icons/manjaro/maia/32x32.png', using default.[0m
+[1;31mtint2: Could not find icon '(null)', using default.[0m
+[1;31mtint2: Could not find icon '(null)', using default.[0m
+conky: desktop window (3ad) is root window
+conky: window type - desktop
+conky: drawing to created window (0xe00001)
+conky: drawing to double buffer
+conky: forked to background, pid is 1377
+
+conky: desktop window (3ad) is root window
+conky: window type - desktop
+conky: drawing to created window (0x1000001)
+conky: drawing to double buffer
+conky: forked to background, pid is 1392
+
+/home/kai/.config/openbox/autostart: regel 20: volumeicon: opdracht niet gevonden
+/bin/sh: synapse: opdracht niet gevonden
+[1;33m/build/tint2/src/tint2/src/util/signals.c 161: triggering tint2 restart, reason: configuration change in the root window[0m
+[1;33m/build/tint2/src/tint2/src/util/signals.c 161: triggering tint2 restart, reason: configuration change in the root window[0m
+[1;33mtint2: /build/tint2/src/tint2/src/main.c 782: restarting tint2...[0m
+[1;33mtint2: /build/tint2/src/tint2/src/main.c 782: restarting tint2...[0m
+tint2: xRandr: Found crtc's: 1
+[1;34mtint2: xRandr: Linking output VGA-1 with crtc 0, resolution 1024x768, DPI 96[0m
+tint2: No XSETTINGS manager, tint2 uses config option 'launcher_icon_theme'.
+tint2: Loading config file: /home/kai/.config/tint2/tint2rc
+tint2: real transparency on... depth: 32
+tint2: xRandr: Found crtc's: 1
+tint2: panel items: TS
+tint2: Systray composited rendering on
+tint2: nb monitors 1, nb monitors used 1, nb desktops 4
+[1;34mtint2: panel 1 uses scale 1 [0m
+[1;34mtint2: xRandr: Linking output VGA-1 with crtc 0, resolution 1024x768, DPI 96[0m
+tint2: No XSETTINGS manager, tint2 uses config option 'launcher_icon_theme'.
+tint2: Loading config file: /home/kai/.config/tint2/default.tint2rc
+tint2: real transparency on... depth: 32
+tint2: panel items: PLTC
+tint2: nb monitors 1, nb monitors used 1, nb desktops 4
+[1;34mtint2: panel 1 uses scale 1 [0m
+polybar|error: Monitor "HDMI-1" not found or disconnected
+[1;32mtint2: Loading icon theme cache...[0m
+[1;33mIcon path not found in cache: theme = hicolor, icon = /usr/share/icons/manjaro/maia/32x32.png, size = 0[0m
+[1;32mtint2: Loading icon theme hicolor:[0m
+tint2:  'hicolor',tint2: 
+tint2: Kernel uevent interface initialized...
+tint2: systray window 8388625
+[1;32mtint2: systray started[0m
+[1;33mtint2: Icon not found in default theme: /usr/share/icons/manjaro/maia/32x32.png[0m
+[1;31mtint2: Loading additional icon themes (this means your icon theme is incomplete)...[0m
+tint2:  'default',tint2:  'xcursor-breeze',tint2: 
+tint2:  'Papirus-Dark-Maia',tint2:  'Papirus-Dark',tint2:  'breeze-dark',tint2:  'Papirus',tint2:  'breeze',tint2:  'gnome',tint2: 
+tint2:  'Papirus-Light-Maia',tint2:  'Papirus-Light',tint2: 
+tint2:  'Papirus-Adapta-Maia',tint2: 
+tint2:  'Papirus-Adapta-Nokto',tint2: 
+tint2:  'ePapirus',tint2:  'elementary',tint2: 
+tint2:  'Papirus-Adapta-Nokto-Maia',tint2: 
+tint2:  'HighContrast',tint2:  'Adwaita',tint2: 
+tint2:  'xcursor-breeze-snow',tint2: 
+tint2:  'Papirus-Adapta',tint2: 
+tint2:  'Papirus-Maia',tint2: 
+[1;31mtint2: Could not find icon '/usr/share/icons/manjaro/maia/32x32.png', using default.[0m
+***** Imlib2 Developer Warning ***** :
+	This program is calling the Imlib call:
+
+	imlib_image_set_has_alpha();
+
+	With the parameter:
+
+	image
+
+	being NULL. Please fix your program.
+***** Imlib2 Developer Warning ***** :
+	This program is calling the Imlib call:
+
+	imlib_image_get_data();
+
+	With the parameter:
+
+	image
+
+	being NULL. Please fix your program.
+***** Imlib2 Developer Warning ***** :
+	This program is calling the Imlib call:
+
+	imlib_image_put_back_data();
+
+	With the parameter:
+
+	image
+
+	being NULL. Please fix your program.
+tint2: Could not open file /usr/share/applications/geany.desktop
+tint2: Could not open file /usr/share/applications/l3afpad.desktop
+tint2: Kernel uevent interface initialized...
+[1;33mIcon path not found in cache: theme = hicolor, icon = /usr/share/icons/manjaro/maia/32x32.png, size = 22[0m
+[1;33mtint2: Icon not found in default theme: /usr/share/icons/manjaro/maia/32x32.png[0m
+[1;31mtint2: Could not find icon '/usr/share/icons/manjaro/maia/32x32.png', using default.[0m
+[1;31mtint2: Could not find icon '(null)', using default.[0m
+[1;31mtint2: Could not find icon '(null)', using default.[0m
+Failed to connect to session manager: Kon geen verbinding maken met de sessiebeheerder: SESSION_MANAGER environment variable not defined
+
+(xfsettingsd:1444): xfsettingsd-WARNING **: 07:46:44.179: Property "/Gdk/WindowScalingFactor" has an unsupported type "guint".
+
+(xfsettingsd:1444): xfsettingsd-CRITICAL **: 07:46:44.187: Stored Xfconf properties disable all outputs, aborting.
+[1;32madd_icon: 33554435 (pamac-tray), pid 1449, visual 0x55e56306ac20, colormap 33554434, depth 32, width 1, height 1[0m
+[1;31mtint2: systray: error code 9[0m
+[1;31mtint2: systray: error code 9[0m
+[1;33mtint2: remove_icon: 33554435 (pamac-tray)[0m
+[1;32madd_icon: 33554443 (pamac-tray), pid 1449, visual 0x55e56306ac20, colormap 33554434, depth 32, width 1, height 1[0m
+
+(pamac-tray:1449): Gdk-CRITICAL **: 07:46:44.483: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+[1;32madd_icon: 35651587 (Netwerkbeheer-applet), pid 1452, visual 0x55e56306ac20, colormap 35651586, depth 32, width 1, height 1[0m
+tint2: Could not open file /usr/share/applications/geany.desktop
+tint2: Could not open file /usr/share/applications/l3afpad.desktop
+[1526:1526:1117/074652.680640:ERROR:sandbox_linux.cc(379)] InitializeSandbox() called with multiple threads in process gpu-process.
+[1497:1497:1117/074652.931650:ERROR:gpu_process_transport_factory.cc(980)] Lost UI shared context.
+[1497:1497:1117/074654.337803:ERROR:input_method_base.cc(146)] Not implemented reached in virtual ui::InputMethodKeyboardController *ui::InputMethodBase::GetInputMethodKeyboardController()Using InputMethodKeyboardControllerStub
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/dbus/bus.py", line 175, in activate_name_owner
+    return self.get_name_owner(bus_name)
+  File "/usr/lib/python3.7/site-packages/dbus/bus.py", line 361, in get_name_owner
+    's', (bus_name,), **keywords)
+  File "/usr/lib/python3.7/site-packages/dbus/connection.py", line 651, in call_blocking
+    message, timeout)
+dbus.exceptions.DBusException: org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.bluez': no such name
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/sbin/blueman-applet", line 121, in <module>
+    BluemanApplet()
+  File "/usr/sbin/blueman-applet", line 63, in __init__
+    self.Plugins.Load()
+  File "/usr/lib/python3.7/site-packages/blueman/main/PluginManager.py", line 90, in Load
+    __import__(self.module_path.__name__ + ".%s" % plugin, None, None, [])
+  File "/usr/lib/python3.7/site-packages/blueman/plugins/applet/AuthAgent.py", line 9, in <module>
+    import blueman.main.applet.BluezAgent as BluezAgent
+  File "/usr/lib/python3.7/site-packages/blueman/main/applet/BluezAgent.py", line 23, in <module>
+    from blueman.bluez.Agent import Agent, AgentMethod
+  File "/usr/lib/python3.7/site-packages/blueman/bluez/Agent.py", line 48, in <module>
+    class Agent(dbus.service.Object):
+  File "/usr/lib/python3.7/site-packages/blueman/bluez/Agent.py", line 56, in Agent
+    @AgentMethod
+  File "/usr/lib/python3.7/site-packages/blueman/bluez/Agent.py", line 38, in AgentMethod
+    if BlueZInterface.get_interface_version()[0] < 5:
+  File "/usr/lib/python3.7/site-packages/blueman/bluez/BlueZInterface.py", line 16, in get_interface_version
+    obj = dbus.SystemBus().get_object('org.bluez', '/')
+  File "/usr/lib/python3.7/site-packages/dbus/bus.py", line 241, in get_object
+    follow_name_owner_changes=follow_name_owner_changes)
+  File "/usr/lib/python3.7/site-packages/dbus/proxies.py", line 248, in __init__
+    self._named_service = conn.activate_name_owner(bus_name)
+  File "/usr/lib/python3.7/site-packages/dbus/bus.py", line 180, in activate_name_owner
+    self.start_service_by_name(bus_name)
+  File "/usr/lib/python3.7/site-packages/dbus/bus.py", line 278, in start_service_by_name
+    'su', (bus_name, flags)))
+  File "/usr/lib/python3.7/site-packages/dbus/connection.py", line 651, in call_blocking
+    message, timeout)
+dbus.exceptions.DBusException: org.freedesktop.DBus.Error.TimedOut: Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+tint2: Could not open file /usr/share/applications/geany.desktop
+tint2: Could not open file /usr/share/applications/l3afpad.desktop
+tint2: Could not open file /usr/share/applications/geany.desktop
+tint2: Could not open file /usr/share/applications/l3afpad.desktop
